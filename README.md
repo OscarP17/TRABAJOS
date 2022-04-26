@@ -63,12 +63,13 @@ en esta se hicieron unas columnas de xs,sm,md,lg,xl
 ![image](https://user-images.githubusercontent.com/102181603/164298662-49aaf1d2-b2b7-44e4-b836-0a28d92998b0.png)
 
 
+
 Realizado: 28/03/2022
 
 en esta se hicieron unas columnas de xs,sm,md,lg,xl
 
 *7 Maqueta 4
-![image](https://user-images.githubusercontent.com/102181603/164299097-07cb5aa4-0345-4fa5-b0af-00f292ed760f.png)
+
 
 Los Archivos no estan realizados con SCSS+
 todos los ejercicios realizados en clase
