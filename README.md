@@ -69,6 +69,7 @@ Realizado: 28/03/2022
 en esta se hicieron unas columnas de xs,sm,md,lg,xl
 
 *7 Maqueta 4
+![image](https://user-images.githubusercontent.com/102181603/165366714-e59437c3-f911-47b5-b660-f8865a666ddc.png)
 
 
 Los Archivos no estan realizados con SCSS+
