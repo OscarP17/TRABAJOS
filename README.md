@@ -70,7 +70,13 @@ en esta se hicieron unas columnas de xs,sm,md,lg,xl
 
 *7 Maqueta 4
 ![image](https://user-images.githubusercontent.com/102181603/165366714-e59437c3-f911-47b5-b660-f8865a666ddc.png)
+![image](https://user-images.githubusercontent.com/102181603/165366874-5e82a5fd-5b15-433a-b30f-3af891df6c90.png)
+![image](https://user-images.githubusercontent.com/102181603/165366919-2b07bf4c-c5cb-411a-abc8-86927c995548.png)
+![image](https://user-images.githubusercontent.com/102181603/165367060-ee16aa20-eded-4fed-83c0-653281cb516e.png)
+![image](https://user-images.githubusercontent.com/102181603/165367127-d6969afa-6bac-4007-ac7b-6a0e108cfe3f.png)
 
 
 Los Archivos no estan realizados con SCSS+
 todos los ejercicios realizados en clase
+Relaizados por Oscar David Pinzon Ferreira
+Estas maquetas se pueden visualizar en paginas como Google Chrome, Opera, Opera GX, Microsoft Edge.
